@@ -22,8 +22,8 @@ Model Superiority: Tree-based regressors (Random Forest) significantly outperfor
 # Tech Stack
 
 Language: Python
-Data Processing: pandas, numpy
-Visualization: seaborn, matplotlib
+Data Processing: pandas,numpy
+Visualization: seaborn,matplotlib
 Machine Learning: scikit-learn
 Forecasting: prophet
 
